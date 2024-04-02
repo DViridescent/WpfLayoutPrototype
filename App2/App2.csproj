@@ -9,6 +9,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <ProjectReference Include="..\MyControls\MyControls.csproj" />
 	  <ProjectReference Include="..\MyLayouts\MyLayouts.csproj" />
 	</ItemGroup>
 

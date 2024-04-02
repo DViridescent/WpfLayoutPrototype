@@ -7,8 +7,4 @@
 		<LangVersion>8.0</LangVersion>
 	</PropertyGroup>
 
-	<ItemGroup>
-	  <ProjectReference Include="..\MyControls\MyControls.csproj" />
-	</ItemGroup>
-
 </Project>
